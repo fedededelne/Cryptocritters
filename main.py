@@ -3,7 +3,7 @@ from telegram import Update, Bot
 from telegram.ext import Application, CommandHandler, ContextTypes
 import os
 
-TOKEN = 7890540111:AAGiYQ3CVlt4owg67-jeKusldFYIc6syAdE
+TOKEN = "7890540111:AAGiYQ3CVlt4owg67-jeKusldFYIc6syAdE"
 bot = Bot(token=TOKEN)
 app = Flask(__name__)
 
